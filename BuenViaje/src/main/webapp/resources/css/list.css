@@ -1,0 +1,33 @@
+.side-nav .logo-sn {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.side-nav .logo-sn img {
+    height: 38px;
+}
+
+.side-nav .search-form input[type=text] {
+    margin-top: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+body {
+    background-color: #eee;
+}
+
+#list {
+	background: #bea2e7;
+  	/* Old browsers */
+  	background: -moz-linear-gradient(top, #bea2e7 0%, #86b7e7 100%);
+  	/* FF3.6-15 */
+ 	background: -webkit-linear-gradient(top, #bea2e7 0%, #86b7e7 100%);
+ 	 /* Chrome10-25,Safari5.1-6 */
+ 	background: linear-gradient(to bottom, #bea2e7 0%, #86b7e7 100%);
+}
+.btn {
+	color:white;
+}
