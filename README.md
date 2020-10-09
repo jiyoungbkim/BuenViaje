@@ -5,7 +5,7 @@
 > 개발인원 2명 · 역할 : 팀원 <br>
 
 ![BuenViajeHome](https://user-images.githubusercontent.com/45545999/95166646-3c936880-07e9-11eb-8aa8-23d5ace8bde0.png)
-# **👩🏻‍💻** 사용언어
+# 📝 사용언어
 
 Java, JavaScript, HTML&CSS, SQL
 
